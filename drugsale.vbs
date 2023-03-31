@@ -68,5 +68,8 @@ End With
 '>
 '<<--BEGIN_CODE_SEGMENT_PRINTFOOTER-->>
 
+'The purpose of this code is to get PatientNAme, DrugSaleNAme, Quantity of Drug and the TotalSales(Quantity of drug * Unit Price) 
+'from DrugSale Table, DrugSaleItems Table and the Patient Table.
+
 '<<--END_CODE_SEGMENT_PRINTFOOTER-->>
 
